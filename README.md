@@ -8,8 +8,11 @@
 
 二进制文件提取于小米完整更新包
 
+## 适用设备
+ - 设备：小米 17 Pro
+ - 系统版本: OS3.0.319.0.WBLCNXM (xiaomi.eu)
+
 ## 测试环境
- - 设备：小米14
- - 系统版本: OS3.0.5.0.WNCCNXM (xiaomi.eu)
- - KernelSU版本: 32179
+ - KernelSU版本: 32601-2
  - KernelSU元模块: OverlayFS MetaModule
+ - 测试情况：正在测试

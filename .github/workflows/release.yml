@@ -25,9 +25,9 @@ jobs:
 
       - name: Download HyperOS
         run: |
-          wget https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.5.0.WNCCNXM/houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip
-          unzip houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip payload.bin
-          rm houji-ota_full-OS3.0.5.0.WNCCNXM-user-16.0-306ce971bf.zip
+          wget https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/OS3.0.319.0.WBLCNXM/pandora-ota_full-OS3.0.319.0.WBLCNXM-user-16.0-2d01cf4d66.zip
+          unzip pandora-ota_full-OS3.0.319.0.WBLCNXM-user-16.0-2d01cf4d66.zip
+          rm pandora-ota_full-OS3.0.319.0.WBLCNXM-user-16.0-2d01cf4d66.zip
 
       - name: Unpack HyperOS
         run: |
