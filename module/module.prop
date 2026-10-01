@@ -1,6 +1,6 @@
-id=MiPay4XiaomiEU
-name=MiPay4XiaomiEU
-version=1.0.2
-versionCode=10002
-author=ReiAccept
-description=XiaomiEU固件添加国行NFC
+id=MiPayRestorer
+name=MiPayRestorer
+version=0.0.1
+versionCode=1
+author=xzgyo
+description=小米官改ROM添加原版NFC
